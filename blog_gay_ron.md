@@ -60,7 +60,7 @@ Gay Ron's analytical framework has been refined across hundreds of dimensions
 and thousands of products.  He calls it **The Four Pillars**:
 
 ### 1. Value Score
-Price means nothing in isolation.  A Plasma Blade at $250 with a 8.7/10 rating
+Price means nothing in isolation.  A Plasma Blade at $250 with an 8.7/10 rating
 is a steal; a lukewarm mug at $3 with a 4/10 rating is still a waste of
 interdimensional currency.  Ron calculates value as the ratio of quality to cost,
 scaled by how urgently the dimension needs the product.
@@ -115,7 +115,7 @@ Twice.  Once in the Laughing Void (the socks incident), and once in a dimension
 where every sentence had to be completed in rhyme.  He does not talk about the
 second one.
 
-**Q: What is Ron's favourite dimension?**
+**Q: What is Ron's favorite dimension?**
 The Prime Dimension, always.  *"That's where my kid is,"* he says, and that
 is the end of the conversation.
 
